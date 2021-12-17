@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on MERN stack developer and as an DevOps Engineer.
+- 🔭 I’m currently working as MERN stack developer and as an DevOps Engineer.
 - 🌱 I’m currently learning Blockchain, Solidity, Rust, and Blockchain Space.
 - 👯 I’m looking to collaborate on A genuine Idea with potential of Innovation.
 - 🤔 I’m looking for help with Blockchain.
