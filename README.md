@@ -2,7 +2,6 @@
 - 🔭 I’m currently working as MERN stack developer and as an DevOps Engineer.
 - 🌱 I’m currently learning Blockchain, Solidity, Rust, and Blockchain Space.
 - 👯 I’m looking to collaborate on A genuine Idea with potential of Innovation.
-- 🤔 I’m looking for help with Blockchain.
 - 💬 Ask me about Anything you like :)
 - 📫 How to reach me: email: akhyl.78@gmail.com
 
