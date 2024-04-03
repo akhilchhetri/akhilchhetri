@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working as MERN stack developer and as an DevOps Engineer.
-- 🌱 I’m currently learning Blockchain, Solidity, Rust, and Blockchain Space.
+- 🔭 I’m FullStack Software engineer with 5+ years of experience. 
+- 🌱 I’m currently learning and engaging in Blockchain, Solidity, Rust, and Web3.0.
 - 👯 I’m looking to collaborate on A genuine Idea with potential of Innovation.
 - 💬 Ask me about Anything you like :)
 - 📫 How to reach me: email: akhyl.78@gmail.com
